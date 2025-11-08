@@ -1,5 +1,17 @@
 # 💫 About Me:
-👋 Hi, I’m Noah<br><br>💻 I’m currently working on:<br>A UI Components Store built with React and Node.js.<br><br>🤝 I’m looking to collaborate on:<br>Frontend projects and full-stack web apps with clean, modern design.<br><br>🧠 I’m currently learning:<br>React Native and local server setups using Raspberry Pi.<br><br>💬 Ask me about:<br>React apps, authentication with JWT & bcrypt, or PostgreSQL database setup.<br><br>🧩 I’m looking for help with:<br>Improving backend optimization and deployment in offline environments.<br><br>⚡ Fun fact:<br>I love turning random ideas into full working apps — even without internet access!<br>
+👋 Hi, I’m Noah<br><br>💻 I’m currently working on:<br>
+Developing the **Lideta Sub-City website** — a government-facing platform that provides information about the sub-city’s offices and departments, while enabling **citizen complaint submissions**, **event and vacancy management**, and **administrative analytics**.
+
+**Tech Stack:**  
+🧩 React (Vercel) • Supabase (Postgres, Auth, Storage)
+
+**Key Features:**  
+- Informational pages for all Lideta Sub-City offices & departments  
+- Complaint submission & tracking system  
+- Event, news, and vacancy management for admins  
+- Employee performance analytics and admin dashboard  
+- Secure authentication and role-based access
+.<br><br>🤝 I’m looking to collaborate on:<br>Frontend projects and full-stack web apps with clean, modern design.<br><br>🧠 I’m currently learning:<br>React Native and local server setups using Raspberry Pi.<br><br>💬 Ask me about:<br>React apps, authentication with JWT & bcrypt, or PostgreSQL database setup.<br><br>🧩 I’m looking for help with:<br>Improving backend optimization and deployment in offline environments.<br><br>⚡ Fun fact:<br>I love turning random ideas into full working apps — even without internet access!<br>
 
 
 ## 🌐 Socials:
