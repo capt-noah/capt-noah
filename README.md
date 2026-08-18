@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 👋 Hi, I’m Noah<br><br>💻 I’m currently working on:<br>
 ### Lideta Sub-City Website
 Developing the **Lideta Sub-City website** — a government-facing platform that provides information about the sub-city’s offices and departments, while enabling **citizen complaint submissions**, **event and vacancy management**, and **administrative analytics**.
