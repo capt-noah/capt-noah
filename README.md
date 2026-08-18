@@ -22,7 +22,7 @@ I’m Noah, an AI & Full-Stack Engineer passionate about building intelligent sy
 [![](https://komarev.com/ghpvc/?username=capt-noah&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+#Game
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capt-noah/capt-noah/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
@@ -30,4 +30,3 @@ I’m Noah, an AI & Full-Stack Engineer passionate about building intelligent sy
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/capt-noah/capt-noah/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
-###
