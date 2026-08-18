@@ -21,8 +21,6 @@ I’m Noah, an AI & Full-Stack Engineer passionate about building intelligent sy
 ---
 [![](https://komarev.com/ghpvc/?username=capt-noah&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-#Game
 
 <picture>
   <source
